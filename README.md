@@ -1,6 +1,6 @@
-# chat_app
+# Radio_app
 
-A new Flutter project.
+A Flutter project for voice assisted radio app which plays different radio stations upon your voice command.This app utilizes audioplayer dart library.
 
 ## Getting Started
 
